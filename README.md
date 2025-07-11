@@ -2,15 +2,16 @@
 По всем вопросам обращаться в тг: @odronium
 
 ## Краткое описание файлов
-**1_FaceAlignment.ipynb** - Вторая часть пайплайна, руализующая нахождение опорных точек и выравнивание
-**predictions.png** - Пример предикта опорных точек
-**2_CE_loss.ipynb** - Третья часть пайплайна с СЕ loss
-**2_2_ArcFace_loss.ipynb** - Третья часть пайплайна с ArcFace loss
-**list_landmarks_align_celeba** - landmarks
-**identity_CelebA3.txt** - identity под обрезанный датасет (Третья часть пайплайна)
-**hend.pth** - Веса для второй части пайплайна
-**best_ARC_face_resnet50VBEST** - Веса для ArcFace loss 
-**best_resnet50VBEST** - Веса для СЕ loss
+**1_FaceAlignment.ipynb** - Вторая часть пайплайна, руализующая нахождение опорных точек и выравнивание\n
+**predictions.png** - Пример предикта опорных точек\n
+**2_CE_loss.ipynb** - Третья часть пайплайна с СЕ loss\n
+**2_2_ArcFace_loss.ipynb** - Третья часть пайплайна с ArcFace loss\n
+**list_landmarks_align_celeba** - landmarks\n
+**identity_CelebA3.txt** - identity под обрезанный датасет (Третья часть пайплайна)\n
+**hend.pth** - Веса для второй части пайплайна\n
+**best_ARC_face_resnet50VBEST** - Веса для ArcFace loss \n
+**best_resnet50VBEST** - Веса для СЕ loss\n
+**output.png** -  выход пайплайна\n
 Последняя пара весов в zip лежит на гугл диске (много весят, даже в зипке): https://drive.google.com/file/d/1BkHrRLJZk5m_CKXJbH1iRhNFqMULP6tU/view?usp=sharing
 
 ## Мысли по поводу проделанной работы
